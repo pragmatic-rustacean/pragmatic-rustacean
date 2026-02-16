@@ -4,9 +4,9 @@ I'm a self-taught developer passionate about **Rust**, **AI**, and **systems pro
 
 ### 💡 What I Do
 
-- **Rust & Systems Programming** — Building low-level systems, performance-critical applications, and infrastructure
-- **AI & Machine Learning** — Developing AI solutions and exploring practical applications
-- **Web Development** — Full-stack development with modern technologies
+- **Rust & Systems Programming** -- Building low-level systems, performance-critical applications, and infrastructure
+- **AI & Machine Learning** -- Developing AI solutions and exploring practical applications
+- **Web Development** -- Full-stack development with modern technologies
 
 ### 🔧 Tech Stack
 
