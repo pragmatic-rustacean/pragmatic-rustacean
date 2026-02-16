@@ -48,7 +48,7 @@ I'm **available for hire** and excited about opportunities in:
 - AI/ML engineering
 - Open-source contributions
 
-**Get in touch:** [your-email@example.com](mailto:your-email@example.com)
+**Get in touch:** [geniusinrust@gmail.com](mailto:geniusinrust@gmail.com)
 
 ---
 
